@@ -1,3 +1,5 @@
+# Updated with features from Steven here https://github.com/kijai/ComfyUI-WanVideoWrapper/issues/1408#issue-3506500268
+
 # ComfyUI wrapper nodes for [WanVideo](https://github.com/Wan-Video/Wan2.1) and related models.
 
 
